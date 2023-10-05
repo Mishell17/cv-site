@@ -1,0 +1,335 @@
+.main-container {
+    background-color: rgb(62, 62, 62);
+    height: 1300px;
+    padding-top: 20px;
+    box-sizing: border-box;
+    display: flex;
+}
+
+.cv-blank-container {
+    background-color: white;
+    width: 65%;
+    height: 95%;
+    margin-left: 240px;
+    padding-top: 15px;
+    display: flex;
+
+}
+
+.sidebar-container {
+    background-color: rgba(21, 1, 44, 0.976);
+    width: 333px;
+    height: 96.8%;
+    padding-top: 40px;
+}
+
+.contact {
+    border-style: solid;
+    background-color: white;
+    color: #000031;
+    height: 52px;
+    width: 78%;
+    margin-left: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    font-size: 22px;
+    border: none;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+.Phone {
+    color: white;
+    display: flex;
+    margin-top: 15px;
+    font-family: sans-serif;
+    margin-left: 65px;
+    font-weight: bold;
+}
+
+.number {
+    color: white;
+    display: flex;
+    margin-top: 10px;
+    font-family: sans-serif;
+    font-size: 13px;
+    margin-left: 65px;
+}
+
+.Email {
+    color: white;
+    display: flex;
+    margin-top: 20px;
+    font-family: sans-serif;
+    margin-left: 65px;
+    font-weight: bold;
+}
+
+.Gmail {
+    color: white;
+    display: flex;
+    margin-top: 10px;
+    font-family: sans-serif;
+    font-size: 13px;
+    margin-left: 65px;
+}
+
+.Adress {
+    color: white;
+    display: flex;
+    margin-top: 20px;
+    font-family: sans-serif;
+    margin-left: 65px;
+    font-weight: bold;
+}
+
+.Tbilisi {
+    color: white;
+    display: flex;
+    margin-top: 10px;
+    font-family: sans-serif;
+    font-size: 13px;
+    margin-left: 65px;
+}
+
+.Education {
+    border-style: solid;
+    background-color: white;
+    color: #000031;
+    height: 45px;
+    width: 73%;
+    margin-top: 30px;
+    margin-left: 43px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    font-size: 22px;
+    border: none;
+    border-radius: 20px;
+    font-weight: bold;
+
+}
+
+.faculty {
+    color: white;
+    display: flex;
+    margin-top: 10px;
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-left: 50px;
+
+}
+
+.years {
+    color: white;
+    margin-top: 8px;
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-left: 50px;
+}
+
+.Uni {
+    color: white;
+    display: flex;
+    margin-top: 15px;
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-left: 50px;
+}
+
+.Exchange {
+    color: white;
+    display: flex;
+    margin-top: 15px;
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-left: 50px;
+}
+
+.Language {
+    border-style: solid;
+    background-color: white;
+    color: #000031;
+    height: 45px;
+    width: 73%;
+    margin-top: 30px;
+    margin-left: 43px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    font-size: 22px;
+    border: none;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+.ul {
+    color: white;
+    margin-top: 10px;
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-left: 30px;
+}
+
+.li {
+    margin-bottom: 5px;
+}
+
+.skills {
+    border-style: solid;
+    background-color: white;
+    color: #000031;
+    height: 45px;
+    width: 73%;
+    margin-top: 30px;
+    margin-left: 43px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    font-size: 22px;
+    border: none;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+.computer-skills {
+    border-style: solid;
+    background-color: white;
+    color: #000031;
+    height: 45px;
+    width: 73%;
+    margin-top: 30px;
+    margin-left: 43px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    font-size: 20px;
+    border: none;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+.Name {
+    margin-top: 30px;
+    margin-left: 15px;
+    font-family: sans-serif;
+    font-weight: 550;
+    font-size: 70px;
+    color: rgba(21, 1, 44, 0.976);
+    display: flex;
+}
+
+.lastname {
+    font-family: sans-serif;
+    font-size: 70px;
+    display: block;
+    margin-left: 15px;
+    font-weight: 550;
+    color: rgba(21, 1, 44, 0.976);
+
+
+}
+
+.experience {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+    margin-left: 25px;
+    border-style: solid;
+    border-radius: 50px;
+    width: 500px;
+    height: 45px;
+    background-color: rgba(21, 1, 44, 0.976);
+    color: white;
+}
+
+.work {
+    font-family: sans-serif;
+    display: inline-block;
+    margin-left: 30px;
+    margin-top: 25px;
+    font-weight: bold;
+}
+
+.dates {
+    font-family: sans-serif;
+    display: inline-block;
+    margin-left: 280px;
+    color: gray;
+}
+
+.details {
+    font-family: sans-serif;
+    font-size: 13px;
+    color: gray;
+    width: 540px;
+}
+
+.work-2 {
+    font-family: sans-serif;
+    display: inline-block;
+    margin-top: 25px;
+    font-weight: bold;
+    margin-left: 25px;
+
+}
+
+.dates-2 {
+    font-family: sans-serif;
+    display: inline-block;
+    margin-left: 305px;
+    color: gray;
+}
+
+.work-3 {
+    font-family: sans-serif;
+    display: inline-block;
+    margin-top: 25px;
+    font-weight: bold;
+    margin-left: 25px;
+
+}
+
+.dates-3 {
+    font-family: sans-serif;
+    display: inline-block;
+    margin-left: 260px;
+    color: gray;
+}
+
+.dates-4 {
+    font-family: sans-serif;
+    display: inline-block;
+    margin-left: 290px;
+    color: gray;
+
+
+}
+
+
+
+.Ltd {
+    font-family: sans-serif;
+    margin-top: 20px;
+    font-weight: bold;
+    margin-left: 25px;
+}
+
+.Ltd-2 {
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-left: 25px;
+    display: block;
+    margin-top: 20px;
+
+}
